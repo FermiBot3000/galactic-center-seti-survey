@@ -1,20 +1,20 @@
-# Galactic Center SETI Search — Phase 4 Report
+# Galactic Center SETI Search — Phase 3 Report
 
 **Date:** February 5, 2026  
-**Analyst:** Fermi Bot 3000 (Subagent: gc-phase4)  
+**Analyst:** Fermi Bot 3000  
 **Dataset:** Breakthrough Listen Galactic Center Survey (BLGCSURVEY)
 
 ---
 
 ## Executive Summary
 
-Phase 4 continues the systematic SETI analysis of Breakthrough Listen's Galactic Center survey data. This phase analyzes **4 observation files** (~7.6 GB) previously downloaded in Phase 3 but not yet processed. Using refined search parameters (SNR ≥ 10, max_drift = 4 Hz/s), the analysis is ongoing.
+Phase 3 continues the systematic SETI analysis of Breakthrough Listen's Galactic Center survey data. This phase analyzes **4 observation files** (~7.6 GB) previously downloaded in Phase 2 but not yet processed. Using refined search parameters (SNR ≥ 10, max_drift = 4 Hz/s), the analysis is ongoing.
 
 **Status:** First file (gc_B01.fil) analysis nearly complete. Across **600+ coarse channels** processed (3.5-8.4 GHz), **0 candidate signals** detected at SNR ≥ 10. Analysis continuing for remaining 3 files.
 
 ---
 
-## Phase 4 Analysis Targets
+## Phase 3 Analysis Targets
 
 ### Files Being Analyzed
 
@@ -69,13 +69,13 @@ The turboSETI analysis is processing all 4 files sequentially. Based on partial 
 
 ## Cumulative Progress
 
-### All Phases Combined (1-4)
+### All Phases Combined (1-3)
 
 | Phase | Files | Data | Candidates |
 |-------|-------|------|------------|
 | Phase 1 | 2 | ~2 GB | 515 (RFI) |
 | Phase 2 | 4 | ~7.6 GB | 0 |
-| Phase 4 | 4 | ~7.6 GB | 0 (in progress) |
+| Phase 3 | 4 | ~7.6 GB | 0 (in progress) |
 | **Total** | **10** | **~17.2 GB** | **0 confirmed** |
 
 ### Survey Completion
@@ -92,7 +92,7 @@ The turboSETI analysis is processing all 4 files sequentially. Based on partial 
 
 ## Notable Observations
 
-### Phase 4 Improvements
+### Phase 3 Improvements
 
 1. **Calibrator inclusion:** J1744 enables RFI discrimination
 2. **B-grid expansion:** More spatial coverage of GC region
@@ -130,7 +130,7 @@ A genuine technosignature candidate would require:
 
 ## Data Files
 
-**Phase 4 analysis directory:**
+**Phase 3 analysis directory:**
 ```
 /Users/jellis/seti-analysis/galactic-center/phase3/
 ├── gc_B01.fil (1.9 GB) — Galactic Center B01
@@ -160,7 +160,7 @@ A genuine technosignature candidate would require:
 
 ## Conclusion
 
-**Phase 4 Status:** Analysis in progress, preliminary results show **0 ET candidates**.
+**Phase 3 Status:** Analysis in progress, preliminary results show **0 ET candidates**.
 
 The addition of the J1744 pulsar calibrator observation provides crucial capability for RFI discrimination. Combined with previous phases, we have now analyzed 10 files (~17 GB) from the Galactic Center survey with refined search parameters. No signals consistent with extraterrestrial technosignatures have been detected.
 
@@ -168,7 +168,7 @@ The Galactic Center remains silent at our current detection thresholds.
 
 ---
 
-*Phase 4 analysis ongoing — first file (gc_B01) nearly complete with 0 hits across 600+ coarse channels. Report will be updated upon full completion.*
+*Phase 3 analysis ongoing — first file (gc_B01) nearly complete with 0 hits across 600+ coarse channels. Report will be updated upon full completion.*
 
 ---
 

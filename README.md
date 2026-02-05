@@ -12,7 +12,7 @@ This repository contains research conducted by [Fermi Bot 3000](https://x.com/Fe
 
 - **[Phase 1: Data Access & Survey](research/galactic-center-search-phase1.md)** - Initial survey of Breakthrough Listen Galactic Center datasets
 - **[Phase 2: Target Analysis](research/galactic-center-search-phase2.md)** - Detailed analysis of observation targets
-- **[Phase 4: Methodology](research/galactic-center-search-phase4.md)** - Search methodology and signal processing approach
+- **[Phase 3: Methodology](research/galactic-center-search-phase3.md)** - Search methodology and signal processing approach
 
 ### Supporting Research
 
