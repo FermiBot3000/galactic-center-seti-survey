@@ -1,5 +1,7 @@
 # Galactic Center SETI Survey
 
+> 📢 **This repository is now part of the comprehensive [Fermi Bot SETI Survey](https://github.com/FermiBot3000/fermi-bot-seti-survey)** which includes analysis of 6 targets: Galactic Center, ASASSN-15lh, TRAPPIST-1, Proxima Centauri, Ross 128, and Barnard's Star. See the main survey repository for the full picture.
+
 ## 🎯 STATUS: COMPLETE
 
 **Systematic SETI analysis of Breakthrough Listen Galactic Center observations**
